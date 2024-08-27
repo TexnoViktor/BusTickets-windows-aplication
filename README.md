@@ -1,8 +1,3 @@
-# BusTickets-windows-aplication
-Thanks for the clarification! Here's an updated version of the README that reflects the correct details:
-
----
-
 # BusTickets - Windows Application
 
 ![License](https://img.shields.io/github/license/TexnoViktor/BusTickets-windows-aplication) ![Language](https://img.shields.io/github/languages/top/TexnoViktor/BusTickets-windows-aplication)
